@@ -1,0 +1,21 @@
+
+Copy following OCX file to System32 folder. 
+
+LVbuttons.ocx  &  Naparansoft Style Button.ocx
+
+OR feel free mail for OCX Files 
+
+1: make ODBC with Name "Pay Roll"
+2: Run Project 
+3: Default Password is "admin" with Admin USer Name
+
+enjoy and vote me ...............
+waiting ur responce............. Thanks 
+
+Can Contact me if u want any further assistance 4 any other Projects 
+i will glad to ans ur queries 
+Thanks Once again 
+
+M Shahid Mughal 
+methoomirza@hotmail.com
++92300641058
